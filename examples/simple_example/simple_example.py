@@ -19,7 +19,7 @@ def main():
         log.info("Flag variation %s", result)
         time.sleep(10)
            
-    close()
+    clinet.close()
 
 
 if __name__ == "__main__":
